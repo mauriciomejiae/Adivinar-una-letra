@@ -1,0 +1,6 @@
+C:\Users\Mauricio M\Downloads\Adivinar una letra\Adivinar una letra\bin\Debug\Adivinar una letra.exe.config
+C:\Users\Mauricio M\Downloads\Adivinar una letra\Adivinar una letra\bin\Debug\Adivinar una letra.exe
+C:\Users\Mauricio M\Downloads\Adivinar una letra\Adivinar una letra\bin\Debug\Adivinar una letra.pdb
+C:\Users\Mauricio M\Downloads\Adivinar una letra\Adivinar una letra\obj\Debug\Adivinar una letra.csprojResolveAssemblyReference.cache
+C:\Users\Mauricio M\Downloads\Adivinar una letra\Adivinar una letra\obj\Debug\Adivinar una letra.exe
+C:\Users\Mauricio M\Downloads\Adivinar una letra\Adivinar una letra\obj\Debug\Adivinar una letra.pdb
